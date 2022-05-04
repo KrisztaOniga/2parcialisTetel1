@@ -1,0 +1,11 @@
+10
+Anna 3
+Peter 5
+Jozsi 10
+Helga 4
+Misi 5
+Pista 7
+Kata 4.5
+Peti 6.5
+Noemi 4.6
+Arni 11
